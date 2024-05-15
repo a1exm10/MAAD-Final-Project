@@ -5,7 +5,7 @@
 
 <body>
 .image-top-left {
-  position: absolute;
+  position: fixed;
   left: 200px;
   top: 50px;
 
@@ -14,7 +14,7 @@
 
 <body>
 .image-top-right {
-  position: absolute;
+  position: fixed;
   right: 200px;
   top: 50px
 }
