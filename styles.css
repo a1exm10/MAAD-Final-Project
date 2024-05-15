@@ -84,8 +84,8 @@
 </style>
 
 .container {
-    width: 400px;
-    height: 250px;
+    width: 300px;
+    height: 200px;
     background-color: #475c6c;
     padding: 20px;
     display: flex;
@@ -93,7 +93,7 @@
     align-items: center;
     position: absolute;
     top: 200px;
-    left: 300px;
+    left: 100px;
 }
 
 .container-link {
