@@ -83,11 +83,10 @@
   }
 </style>
 
-
 .container {
     width: 400px;
     height: 250px;
-    background-color: #0e1111;
+    background-color: #475c6c;
     padding: 20px;
     display: flex;
     justify-content: center;
