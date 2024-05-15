@@ -1,29 +1,18 @@
 
 <head>
-  <title>Image Example</title>
-  <style>
-    .top-right {
-      position: static;
-      top: 50px
-      margin-right: 20px
-    }
-    .top-left {
-      position: static;
-      top: 50px;
-      margin-left: 20px;
-    }
-    .bottom-right {
-      position: static;
-      bottom: 50px
-      margin-right: 200px
-    }
-    .bottom-left {
-      position: static;
-      bottom: 50px
-      left: 20px
-    }
-  </style>
+
 </head>
+
+<body>
+.image-left {
+  position: relative;
+  left: 400px;
+  top: 50px;
+  
+}
+</body>
+
+
 
 h1 {
   color: blue
