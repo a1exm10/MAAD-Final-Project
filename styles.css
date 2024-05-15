@@ -89,7 +89,7 @@ h1 {
 
 .container {
     width: 650px;
-    height: 275px;
+    height: 225px;
     background-color: #475c6c;
     padding: 20px;
     display: flex;
@@ -97,7 +97,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 200px;
-    left: 400px;
+    left: 450px;
 }
 
 .container-link {
