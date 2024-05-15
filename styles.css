@@ -83,13 +83,10 @@
   }
 </style>
 
-h1 {
-  color: red
-}
 
 .container {
-    width: 300px;
-    height: 200px;
+    width: 450px;
+    height: 250px;
     background-color: #0e1111;
     padding: 20px;
     display: flex;
