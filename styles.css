@@ -1,41 +1,25 @@
 
 <head>
+	<title>Image in Top-Right Corner</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
 
+		.top-right-container {
+			position: relative;
+			height: 100px; /* Adjust the height as needed */
+		}
+
+		.top-right-image {
+			float: right;
+			max-width: 200px; /* Adjust the maximum width as needed */
+			max-height: 100px; /* Adjust the maximum height as needed */
+		}
+	</style>
 </head>
-
 <body>
-.image-top-left {
-  position: absolute;
-  left: 200px;
-  top: 50px;
-
-}
-</body>
-
-<body>
-.image-top-right {
-  position: absolute;
-  right: 800px;
-  top: 50px;
-}
-</body>
-
-<body>
-.image-bottom-right {
-  position: absolute;
-  right: 800px;
-  top: 500px;
-}
-</body>
-
-<body>
-.image-bottom-left {
-  position: absolute;
-  left: 200px;
-  top: 500px
-}
-</body>
-
 
 
 h1 {
