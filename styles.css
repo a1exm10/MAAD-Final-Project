@@ -89,7 +89,7 @@ h1 {
 
 .container {
     width: 600px;
-    height: 125px;
+    height: 100px;
     background-color: #475c6c;
     padding: 20px;
     display: flex;
@@ -132,4 +132,17 @@ h1 {
 
 .button:hover {
     background-color: #45a049;
+}
+
+.container3 {
+    width: 600px;
+    height: 100px;
+    background-color: #6ea1a9;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 250px;
+    left: 450px;
 }
