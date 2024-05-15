@@ -72,7 +72,7 @@
   .bottom-left-container {
     position: fixed;
     left: 300px;
-    bottom: 125px;
+    bottom: 75px;
     height: 250px; /* Adjust the height as needed */
   }
 
