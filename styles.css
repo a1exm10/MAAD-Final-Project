@@ -4,11 +4,19 @@
 </head>
 
 <body>
-.image-left {
-  position: relative;
-  left: 400px;
+.image-top-left {
+  position: absolute;
+  left: 200px;
   top: 50px;
-  
+
+}
+</body>
+
+<body>
+.image-top-right {
+  position: absolute;
+  right: 200px;
+  top: 50px
 }
 </body>
 
