@@ -107,8 +107,8 @@ h1 {
 }
 
 .container2 {
-    width: 50px;
-    height: 30px;
+    width: 80px;
+    height: 50px;
     background-color: #90ee90;
     padding: 20px;
     display: flex;
@@ -122,11 +122,11 @@ h1 {
 
 .button {
     display: inline-block;
-    padding: 1px 1px;
+    padding: 3px 3px;
     background-color: #4CAF50;
     color: white;
     text-decoration: none;
-    border-radius: 1px;
+    border-radius: 2px;
     transition: background-color 0.3s ease;
 }
 
