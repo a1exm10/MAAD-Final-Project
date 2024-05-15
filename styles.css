@@ -88,8 +88,8 @@ h1 {
 }
 
 .container {
-    width: 600px;
-    height: 100px;
+    width: 700px;
+    height: 120px;
     background-color: #768087;
     padding: 20px;
     display: flex;
@@ -98,7 +98,7 @@ h1 {
     position: absolute;
     top: 180px;
     left: 450px;
-		font-size: 30px
+		font-size: 25px
 }
 
 .container-link {
