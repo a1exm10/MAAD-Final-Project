@@ -1,0 +1,60 @@
+
+<link rel="stylesheet" href="styles.css">
+
+<script src="main.js"></script>
+
+
+<style>
+
+  body {
+    background-color: #140037;
+    color: #FFFFFF;
+    font-size: 30px;
+    line-height: 80px;
+    word-wrap: anywhere;
+    font-family: Monospace
+  }
+    </style>
+
+   <title>Fading and Pulsing Header</title>
+   	<style>
+   		@keyframes fadeIn {
+   			0% {
+   				opacity: 0;
+   			}
+   			100% {
+   				opacity: 1;
+   			}
+   		}
+
+   		@keyframes pulse {
+   			0% {
+   				transform: scale(1);
+   			}
+   			50% {
+   				transform: scale(1.1);
+   			}
+   			100% {
+   				transform: scale(1);
+   			}
+   		}
+
+   		h2 {
+   			font-size: 3em;
+   			text-align: center;
+   			animation: fadeIn 2s ease-in-out, pulse 2s infinite;
+   		}
+   	</style>
+
+     <h2><center>A brief history of memes</center></h2>
+
+
+   <a href="earlymemes.html" class="container-link">
+      <div class="container">
+        <p>“Examples of memes are tunes, ideas, catch-phrases, clothes fashions,
+           ways of making pots or of building arches. Just as genes propagate themselves
+           in the gene pool by leaping from body to body via sperms or eggs, so memes propagate
+           themselves in the meme pool by leaping from brain to brain via a process which,
+           in the broad sense, can be called imitation.” - Richard Dawkins</p>
+      </div>
+  </a>

@@ -83,8 +83,24 @@
   }
 </style>
 
-
-
 h1 {
-  color: white
+  color: red
+}
+
+.container {
+	width: 300px;
+	height: 200px;
+	background-color: #4a646c;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	color: inherit;
+}
+
+.container-link {
+    position: absolute;
+    top: 200px;
+    left: 300px;
 }
